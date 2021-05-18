@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/AnikaitSahota">
+  <img align="left" alt="Anikait's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/AnikaitSahota">
+  <img align="left" alt="Anikait's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AnikaitSahota">
+  <img align="left" alt="Anikait's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Anikait_Sahota">
+  <img align="left" alt="Anikait's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/anikait.sahota/">
+  <img align="left" alt="Anikait's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 <!--
 **AnikaitSahota/AnikaitSahota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
