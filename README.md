@@ -16,6 +16,13 @@
   <img align="left" alt="Anikait's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
+- 👯 I’m looking to collaborate on any open source project, open to discuss ideas
+- 📫 How to reach me: anikait18016@iiitd.ac.in
+- 😄 Pronouns: He/Him
+
+![Anikait's github stats](https://github-readme-stats.vercel.app/api?username=anikaitsahota&theme=radical)
+
 <!--
 **AnikaitSahota/AnikaitSahota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
