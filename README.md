@@ -16,6 +16,9 @@
   <img align="left" alt="Anikait's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<!-- <img src="https://img.icons8.com/wired/64/000000/github.png"/> -->
+<br>
+<br>
 
 - 👯 I’m looking to collaborate on any open source project, open to discuss ideas
 - 📫 How to reach me: anikait18016@iiitd.ac.in
